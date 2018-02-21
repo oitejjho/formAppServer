@@ -1,0 +1,9 @@
+{
+  "type" : "object",
+  "title" : "Form1",
+  "properties" : {
+    "text" : { },
+    "textA" : { },
+    "butt" : { }
+  }
+}

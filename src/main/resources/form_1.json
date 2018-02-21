@@ -1,0 +1,19 @@
+[ {
+  "type" : "text",
+  "key" : "text",
+  "title" : "text",
+  "description" : "text",
+  "placeholder" : "text"
+}, {
+  "type" : "textarea",
+  "key" : "textA",
+  "title" : "textA",
+  "description" : "textA",
+  "placeholder" : "textA"
+}, {
+  "type" : "button",
+  "key" : "butt",
+  "title" : "butt",
+  "description" : "butt",
+  "placeholder" : "butt"
+} ]
